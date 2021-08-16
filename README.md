@@ -1,2 +1,2 @@
-# Repositorio Lab POO
-Repositorio Lab POO
+# Repositorio Tareas
+Repositorio Tareas
